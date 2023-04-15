@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-image: url(	https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+}
+.esas{
+    width: 100%;
+}
+.afre{
+    width: 100%;
+    height: 16rem;
+    text-align: center;
+}
+.afre h1{
+    color: #e6a756;
+    padding-top: 5rem;
+}
+.afre p{
+    font-size: 80px;
+    color: white;
+}
+.strong{
+    width: 85%;
+    height: 10rem;
+    padding-left: 40px;
+    line-height: 30px;
+    font-size: 20px;
+    color:#816d6a;
+}
+.nav{
+    width:100%;
+    height:2rem;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    background-color: #311a12;
+}
+.nav a{
+    color: rgb(245, 236, 236);
+    margin-left: 3rem;
+}
+.a1:hover{
+    color: grey;
+
+}
+.a2:hover{
+    color: grey;
+}
+.a3:hover{
+    color: grey;
+}
+.a4:hover{
+    color: grey;
+}
+.sec3{
+    width: 100%;
+    height:41rem;
+}
+.imgdiv{
+    width: 100%;
+    height: 33rem;
+    display: flex;
+    justify-content: center;
+}
+.imgdiv img{
+    width: 60%;
+    height: 33rem;
+    margin-left: 35%;
+    border-radius: 10px;
+    margin-top: 3rem;
+}
+.img2{
+    width: 40%;
+    height: 20rem;
+    position: absolute;
+    left:12%;
+    bottom: -16%;
+    background-color: #f6e1c5;
+    text-align: center;
+}
+.img2 p{
+    font-size: 3rem;
+    color:#816d6a;
+
+}
+.img2 h1{
+    font-size: 20px;
+    padding-top:3rem;
+}
+.img3{
+    width: 13%;
+    height: 70px;
+    position: absolute;
+    right: 63%;
+    bottom: -20%;
+    background-color: #e6a756;
+    border-radius: 8px;
+    text-align: center;
+}
+.img3  p{
+    margin-top: 25px;
+}
+.img3:hover {
+    background-color: #f6e1c5;
+}
+.sec4{
+    width: 100%;
+    height: 28rem;
+    background-color: #e6a756;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.our1{
+    width: 60%;
+    height: 19rem;
+    border: 4px solid #bb925c;
+    display: flex;
+    justify-content: center;
+    border-radius: 7px;
+    align-items: center;
+}
+.our2{
+    width: 99%;
+    border-radius: 7px;
+    height: 18.5rem;
+    background-color: #f6e1c5;
+    text-align: center;
+    padding: 0 30px;
+    font-size: 20px;
+}
+.our2 p{
+    color:#816d6a;
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+.our2 strong{
+    color:#816d6a;
+}
+.our2 h1{
+    font-size: 20px;
+    margin-top: 40px;
+}
+.sec5 {
+    width: 100%;
+    height: 5rem;
+    text-align: center;
+    background-color: #311a12;
+    margin-top:6rem;   
+}
+.sec5 p{
+    color: white;
+    padding-top: 35px;
+}
